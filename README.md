@@ -57,4 +57,4 @@ Project Hub: https://ysrao.github.io/
 - **CBRS tokenizer** — [Run the artifact](https://ysrao.github.io/cbrs-tokenizer/) · [View the code](https://github.com/ysrao/ysrao.github.io/tree/main/cbrs-tokenizer)
 - **LTE / 5G NR link-budget calculator** — [Run the artifact](https://ysrao.github.io/lte-5g-nr-link-budget/) · [View the code](https://github.com/ysrao/ysrao.github.io/tree/main/lte-5g-nr-link-budget)
 - **Radio Config Editor** — [Run the artifact](https://ysrao.github.io/radio-config-editor/) · [View the code](https://github.com/ysrao/ysrao.github.io/tree/main/radio-config-editor)
-- **Bank LLM dimensioning calculator** — [Run the artifact](https://ysrao.github.io/bank-llm-dimensioning-calculator/) · [View the code](https://github.com/ysrao/ysrao.github.io/tree/main/bank-llm-dimensioning-calculator)
+- **Bank LLM dimensioning calculator** — implements the sizing method of Appendix A of *AI Architecture for Secure Client Interactions and Fraud Defense* — [Run the artifact](https://ysrao.github.io/bank-llm-dimensioning-calculator/) · [View the code](https://github.com/ysrao/ysrao.github.io/tree/main/bank-llm-dimensioning-calculator)
