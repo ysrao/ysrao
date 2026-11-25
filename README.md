@@ -4,7 +4,7 @@ Consultant, AI and Telecommunications.
 
 My projects, grouped by what they contain. Every link is labelled by what it opens — **Run the artifact** opens the live interactive artifact, **View the code** opens the source, **Read the results** opens figures and findings.
 
-Full labelled index: https://ysrao.github.io/project-index/ · Project Hub: https://ysrao.github.io/
+Project Hub: https://ysrao.github.io/
 
 ## 5G NR digital twins
 
